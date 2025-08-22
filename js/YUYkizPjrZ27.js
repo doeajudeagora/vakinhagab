@@ -180,3 +180,5 @@ jQuery(function($){
     //     $('.modal-doar').toggleClass('open');
     // });
 });
+
+  
